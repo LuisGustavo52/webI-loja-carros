@@ -1,0 +1,49 @@
+html{
+    font-family: Arial;
+    color: #b2b2b2;
+}
+
+h1{
+    text-align: center;
+    font-weight: 700;
+    color: #111;
+}
+
+main{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+section{
+    margin-bottom: 4vh;
+    padding: 2em;
+    background-color: #111;
+    border-radius: 4px;
+    width: 50vw;
+}
+
+section h2{
+    color: white;
+    margin: 0;
+}
+
+button{
+    color: #111;
+    background-color: #febe01;
+    border-radius: 4px;
+    font-size: 1rem;
+    padding: 0.5em 0.8em;
+    border: none;
+    font-weight: 600;
+}
+
+.destaque{
+    color: #febe01;
+}
+
+h2 span{
+    font-weight: bold;
+}
